@@ -13,7 +13,7 @@ eMoGi는 “emotion”과 “emoji”를 결합한 이름으로,
 <div align="center">
 <table>
     <tr align="center">
-        <td colspan="3" style="font-weight:bold">⚙️ Repository</td>
+        <td colspan="4" style="font-weight:bold">⚙️ Repository</td>
     </tr>
     <tr>
         <td align="center" width="200px;">
@@ -82,9 +82,9 @@ Emozis는 “emotion”과 “emoji”의 결합에 ‘s’를 추가하여 복�
     <tr>
         <td align="center">PM<br>AI Engineer</td>
         <td align="center">PM <span style="font-size:0.8rem;">Assistant</span><br>AI Engineer</td>
-        <td align="center">Frontend Engineer(Android)</td>
-        <td align="center">Frontend Engineer(Web)</td>
-        <td align="center">Designer & <br>Frontend Engineer(Web)</td>
+        <td align="center">Frontend Engineer<br>(Android)</td>
+        <td align="center">Frontend Engineer<br>(Web)</td>
+        <td align="center">Designer & <br>Frontend Engineer<br>(Web)</td>
         <td align="center">Backend Engineer</td>
     </tr>
 </table>
