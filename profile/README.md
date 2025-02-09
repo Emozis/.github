@@ -17,7 +17,10 @@ eMoGi는 “emotion”과 “emoji”를 결합한 이름으로,
     </tr>
     <tr>
         <td align="center" width="200px;">
-            <a href="https://github.com/Emozis/eMoGiApp">Frontend</a>
+            <a href="https://github.com/Emozis/eMoGiApp">Frontend(Android)</a>
+        </td>
+        <td align="center" width="200px;">
+            <a href="https://github.com/Emozis/fe">Frontend(Web)</a>
         </td>
         <td align="center" width="200px;">
             <a href="https://github.com/Emozis/server">Backend</a>
@@ -59,25 +62,30 @@ Emozis는 “emotion”과 “emoji”의 결합에 ‘s’를 추가하여 복�
             <a href="https://github.com/yechan-9208"><img src="https://avatars.githubusercontent.com/yechan-9208" width="90px"></a>
         </td>
         <td align="center" width="100px;">
-            <a href="https://github.com/MinkyoDev"><img src="https://avatars.githubusercontent.com/MinkyoDev" width="90px"></a>
+            <a href="https://github.com/MinkyoDev"><img src="https://avatars.githubusercontent.com/muroa96" width="90px"></a>
         </td>
         <td align="center" width="100px;">
             <a href="https://github.com/MinkyoDev"><img src="https://avatars.githubusercontent.com/cocopg" width="90px"></a>
+        </td>
+        <td align="center" width="100px;">
+            <a href="https://github.com/MinkyoDev"><img src="https://avatars.githubusercontent.com/MinkyoDev" width="90px"></a>
         </td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/OHTaEH"><b>오태훈 ⭐️</b></a> </td>
         <td align="center"><a href="https://github.com/narae3759"><b>김나래</b></a> </td>
         <td align="center"><a href="https://github.com/yechan-9208"><b>원예찬</b></a> </td>
-        <td align="center"><a href="https://github.com/MinkyoDev"><b>정민교</b></a> </td>
+        <td align="center"><a href="https://github.com/muroa96"><b>손한종</b></a> </td>
         <td align="center"><a href="https://github.com/cocopg"><b>정성진</b></a> </td>
+        <td align="center"><a href="https://github.com/MinkyoDev"><b>정민교</b></a> </td>
     </tr>
     <tr>
         <td align="center">PM<br>AI Engineer</td>
         <td align="center">PM <span style="font-size:0.8rem;">Assistant</span><br>AI Engineer</td>
-        <td align="center">Frontend Engineer</td>
+        <td align="center">Frontend Engineer(Android)</td>
+        <td align="center">Frontend Engineer(Web)</td>
+        <td align="center">Designer & <br>Frontend Engineer(Web)</td>
         <td align="center">Backend Engineer</td>
-        <td align="center">Designer</td>
     </tr>
 </table>
 </div>
