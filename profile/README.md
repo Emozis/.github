@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://imgur.com/mFOGQZ6.png" width="30%">
+<br>
+<img src="https://github.com/user-attachments/assets/f9b51292-82c0-4a89-b6a7-ca9dd2ed8f9d" width="30%">
+<br>
 <br>
 
 eMoGi는 “emotion”과 “emoji”를 결합한 이름으로, 
